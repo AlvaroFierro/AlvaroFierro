@@ -3,7 +3,7 @@
 <br />
 
     
-- 📑Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
+- 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
 
 - 🌱 I’m currently learning **JS, React, Vanilla CSS**
 
