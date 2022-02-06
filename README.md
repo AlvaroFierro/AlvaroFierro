@@ -2,8 +2,7 @@
 <h3 align="center">A curious frontend developer student</h3>
 <br />
 
-    
-- 📑Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
+- 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
 
 - 🌱 I’m currently learning **JS, React, Vanilla CSS**
 
@@ -14,6 +13,7 @@
 - **I ❤ researching and be curious about learning every day something brand new.**
 
 ## My open source repository for spanish learners
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarofierro&repo=Basic_JS)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats:
@@ -22,10 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofierro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/alvaro-fierro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-fierro" height="30" width="40" /></a>
 <a href="https://twitter.com/alvaro_fie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvaro_fie" height="30" width="40" /></a>
 <a href="https://instagram.com/alvaro.fierro.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaro.fierro.io" height="30" width="40" /></a>
 </p>
-
-
