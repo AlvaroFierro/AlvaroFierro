@@ -2,10 +2,6 @@
 <h3 align="center">A curious frontend developer student</h3>
 <br />
 
-<<<<<<< HEAD
-=======
-    
->>>>>>> 72141a7952a0d2cbb89f64673bbae4bc565f531d
 - 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
 
 - 🌱 I’m currently learning **JS, React, Vanilla CSS**
