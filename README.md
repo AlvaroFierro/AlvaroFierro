@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Alvaro 🙋🏻‍♂️</h1>
-<h3 align="center">A curious frontend developer student</h3>
+<h3 align="center">A curious frontend web developer </h3>
 <br />
 
 - 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
 
-- 🌱 I’m currently learning **JS, React, Vanilla CSS**
-
-- 👯 I’m looking to collaborate with [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- 🌱 I’m currently learning **React Native, React**
 
 - 📫 How to reach me **business.afierro@gmail.com**
 
