@@ -23,6 +23,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/alvaro-fierro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-fierro" height="30" width="40" /></a>
-<a href="https://twitter.com/alvaro_fie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvaro_fie" height="30" width="40" /></a>
+<a href="https://twitter.com/alvarofierroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvarofierroo" height="30" width="40" /></a>
 <a href="https://instagram.com/alvaro.fierro.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaro.fierro.io" height="30" width="40" /></a>
 </p>
