@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Alvaro 🙋🏻‍♂️</h1>
-<h3 align="center">A curious frontend web developer </h3>
+<h1 align="center">I'm Alvaro <a href="https://alvaro-fierro.pages.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/></a></h1>
+<h3 align="center">Frontend web developer </h3>
 <br />
 
 - 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
