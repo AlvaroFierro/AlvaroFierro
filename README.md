@@ -2,22 +2,21 @@
 <h3 align="center">Frontend web developer </h3>
 <br />
 
-- 📑 Doing [my own open source repository](https://github.com/AlvaroFierro/Basic_JS) for spanish learners
-
-- 🌱 I’m currently learning **React Native, React**
-
-- 📫 How to reach me **business.afierro@gmail.com**
-
-- **I ❤ researching and be curious about learning every day something brand new.**
+- 👨🏻‍💻 &nbsp;Working on [my own open source repository][repo] for spanish learners
+- 🌱 &nbsp;I’m currently learning **React Native, Tailwind CSS **
+- 📫 &nbsp;How to reach me [@alvarofierroo][twitter]
+- 💡 &nbsp;Fun fact: I :heart: the  :musical_note: and playing the :guitar:
+- 📆 &nbsp;2022 goals: **get a job** :bowtie:
 
 ## My open source repository for spanish learners
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarofierro&repo=Basic_JS)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats:
+<details>
+  <summary>:zap: GitHub Activity</summary>
 
 [![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarofierro&show_icons=true&theme=swift&layout="compact")](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofierro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ## Get in touch with me:
 
@@ -26,3 +25,12 @@
 <a href="https://twitter.com/alvarofierroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvarofierroo" height="30" width="40" /></a>
 <a href="https://instagram.com/alvaro.fierroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaro.fierroo" height="30" width="40" /></a>
 </p>
+
+## 📅 Weekly updates:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+[repo]: https://github.com/AlvaroFierro/Javascript-basico
+[twitter]: https://twitter.com/alvarofierroo
