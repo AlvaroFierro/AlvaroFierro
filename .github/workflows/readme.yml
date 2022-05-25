@@ -18,6 +18,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          COMMIT_MESSAGE: Updated README
+          COMMIT_MESSAGE: Readme update
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: false
