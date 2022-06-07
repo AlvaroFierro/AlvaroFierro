@@ -3,9 +3,9 @@
 <br />
 
 - 👨🏻‍💻 &nbsp;Working on [my own open source repository][repo] for spanish learners
-- 🌱 &nbsp;I’m currently learning **React Native, Tailwind CSS **
+- 🌱 &nbsp;I’m currently learning **React, Tailwind CSS & Bootstrap**
 - 📫 &nbsp;How to reach me [@alvarofierroo][twitter]
-- 💡 &nbsp;Fun fact: I :heart: the  :musical_note: and playing the :guitar:
+- 💡 &nbsp;Fun fact: I :heart: the :musical_note: and playing the :guitar:
 - 📆 &nbsp;2022 goals: **get a job** :bowtie:
 
 ## Useful Links :point_down:
@@ -47,9 +47,6 @@ INI                          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-
-
 
 [repo]: https://github.com/AlvaroFierro/Javascript-basico
 [twitter]: https://twitter.com/alvarofierroo
