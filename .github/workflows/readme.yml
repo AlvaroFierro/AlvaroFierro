@@ -14,7 +14,7 @@ jobs:
     name: Waka - Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.1.5
+      - uses: athul/waka-readme@master
         with:
           COMMIT_MESSAGE: Readme update
           SHOW_TITLE: true
