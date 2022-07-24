@@ -34,5 +34,9 @@
 
 ## 📅 Weekly updates:
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 [repo]: https://github.com/AlvaroFierro/Javascript-basico
 [twitter]: https://twitter.com/alvarofierroo
