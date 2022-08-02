@@ -6,8 +6,8 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at every 5:00 UTC
-    - cron: "0 05 * * *"
+    # Runs at every 5AM UTC
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
@@ -16,8 +16,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          COMMIT_MESSAGE: Readme update
+          COMMIT_MESSAGE: Update README
           SHOW_TITLE: true
           SHOW_TIME: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
