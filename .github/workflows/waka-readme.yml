@@ -1,24 +1,21 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
+  # runs at every 5AM UTC
   schedule:
-    # Runs at every 5AM UTC
     - cron: "0 5 * * *"
 
 jobs:
   update-readme:
-    name: Waka - Readme
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: Update README
           SHOW_TITLE: true
           SHOW_TIME: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
