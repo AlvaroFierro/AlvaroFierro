@@ -2,9 +2,9 @@
 <h3 align="center">Frontend web developer </h3>
 <br />
 
-- 👨🏻‍💻 &nbsp;Working on [my own open source repository][repo] for spanish learners
-- 🌱 &nbsp;I’m currently learning **React, Tailwind CSS & Bootstrap**
-- 📫 &nbsp;How to reach me [@alvarofierroo][twitter] or in my [website][website]
+- 👨🏻‍💻 &nbsp;Learning CS self taught with CS50 by Harvard
+- 🌱 &nbsp;I’m currently learning **C, DSA & JavaScript**
+- 📫 &nbsp;How to reach me [@alvarofierroo][twitter] or check my [portfolio][portfolio]
 - 💡 &nbsp;Fun fact: I :heart: the :musical_note: and playing the :guitar:
 - 📆 &nbsp;2022 goals: **get a job** :bowtie:
 
@@ -49,6 +49,5 @@ HTML                         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[repo]: https://github.com/AlvaroFierro/Javascript-basico
 [twitter]: https://twitter.com/alvarofierroo
-[website]: https://alvaro-fierro.pages.dev/
+[portfolio]: https://alvaro-fierro.pages.dev/
