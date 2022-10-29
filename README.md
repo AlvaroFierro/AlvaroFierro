@@ -3,10 +3,9 @@
 <br />
 
 - 👨🏻‍💻 &nbsp;Learning CS self taught with CS50 by Harvard
-- 🌱 &nbsp;I’m currently learning **C, DSA & JavaScript**
+- 🌱 &nbsp;I’m currently learning **C, JavaScript, Python, DB && DSA**
 - 📫 &nbsp;How to reach me [@alvarofierroo][twitter] or check my [portfolio][portfolio]
 - 💡 &nbsp;Fun fact: I :heart: the :musical_note: and playing the :guitar:
-- 📆 &nbsp;2022 goals: **get a job** :bowtie:
 
 ## Useful Links :point_down:
 
