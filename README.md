@@ -1,5 +1,5 @@
 <h1 align="center">I'm Alvaro <a href="https://alvaro-fierro.pages.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"/></a></h1>
-<h3 align="center">Frontend web developer </h3>
+<h3 align="center">Frontend Developer</h3>
 <br />
 
 - 👨🏻‍💻 &nbsp;Learning CS self taught with CS50 by Harvard
