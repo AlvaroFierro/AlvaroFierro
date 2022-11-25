@@ -2,10 +2,10 @@
 <h3 align="center">Frontend Developer</h3>
 <br />
 
-- 👨🏻‍💻 &nbsp;Learning CS self taught with CS50 by Harvard
+- 👨🏻‍💻 &nbsp;Learning CS self-taught with CS50 by Harvard
 - 🌱 &nbsp;I’m currently learning **C, JavaScript, Python, DB && DSA**
 - 📫 &nbsp;How to reach me [@alvarofierroo][twitter] or check my [portfolio][portfolio]
-- 💡 &nbsp;Fun fact: I :heart: the :musical_note: and playing the :guitar:
+- 💡 &nbsp;Fun fact: I :heart: :musical_note: and playing :guitar:
 
 ## Useful Links :point_down:
 
