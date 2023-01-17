@@ -17,4 +17,4 @@ jobs:
           COMMIT_MESSAGE: Update README
           SHOW_TITLE: true
           SHOW_TIME: false
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: -#
