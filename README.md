@@ -72,7 +72,17 @@
   <summary>📅 Weekly updates:</summary>
   <!--START_SECTION:waka-->
 
-  <!--END_SECTION:waka-->
+```text
+From: 10 January 2023 - To: 17 January 2023
+
+JavaScript                   #################--------   68.69 %
+CSS                          #####--------------------   19.81 %
+HTML                         ##-----------------------   09.19 %
+Markdown                     #------------------------   02.06 %
+JSON                         -------------------------   00.25 %
+```
+
+<!--END_SECTION:waka-->
 
 </details>
 
