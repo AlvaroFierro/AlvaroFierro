@@ -73,10 +73,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Python                     #####################----   85.97 %
-Markdown                   ####---------------------   14.03 %
+Python                     ####################-----   81.02 %
+Markdown                   #####--------------------   18.98 %
 ```
 
 <!--END_SECTION:waka-->
