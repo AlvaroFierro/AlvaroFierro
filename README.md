@@ -73,12 +73,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Text                       ###########--------------   43.34 %
-CSV                        #######------------------   28.40 %
-Markdown                   ####---------------------   14.76 %
-Other                      ###----------------------   13.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
